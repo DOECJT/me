@@ -1,6 +1,7 @@
 :root {
   --bg-color: #fff;
   --text-color: #1578ff;
+  --text-bg: linear-gradient( 120deg, #bd34fe 30%, #41d1ff );
 }
 :root.dark {
   --bg-color: #121212;

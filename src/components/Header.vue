@@ -6,13 +6,6 @@ const a = 'test'
 const b = false
 
 function foo() {
-  if (b)
-    return
-  debugger
-  if (a)
-    console.log('a', a)
-
-  Console.log('hello')
 }
 </script>
 
